@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "sample project for playing around with npm",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praneethpr/background-generator.git"
+  },
+  "author": "praneethpr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praneethpr/background-generator/issues"
+  },
+  "homepage": "https://github.com/praneethpr/background-generator#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
